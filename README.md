@@ -1,8 +1,7 @@
 Usage for build
 	build -t $YourAppsTagName $DockerfileDirName
 
-Usage for run
-	docker run -d -p 80:8080 $YourAppsTagName
+Run Jenkins pipeline Jenkinsfile
 
 Usage this URL for test
-	http://$IP/hello-1.0
+	http://35.205.200.65/hello-1.0
